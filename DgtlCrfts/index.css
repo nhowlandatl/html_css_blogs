@@ -67,7 +67,7 @@ img.bottom-center {
     position: absolute;
     bottom: 20px;
     margin: 0 auto;
-    left: 50%;
+    right: 50%;
 }
 
 .center-content {
@@ -113,14 +113,14 @@ ul li p {
     margin-top: 50px;
     padding-top: 20px;
     margin: 0 auto;
-    background: gray;
+    background: #333333;
 }
 
 .bottom-navbar a {
     padding-top: 20px;
     margin-right: 50px;
     text-decoration: none;
-    color: white;
+    color: lightgray;
 }
 
 .bottom-navbar p {
